@@ -1,0 +1,3 @@
+english name: Professional JavaScript for Web Developers
+中文名：       JavaScript高级程序设计
+作者：         Nicholas  C.Zakas
