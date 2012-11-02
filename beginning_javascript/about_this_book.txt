@@ -1,3 +1,5 @@
 english name: Professional JavaScript for Web Developers
-中文名：       JavaScript高级程序设计
-作者：         Nicholas  C.Zakas
+涓枃鍚嶏細       JavaScript楂樼骇绋嬪簭璁捐
+浣滆�咃細         Nicholas  C.Zakas
+
+璇讳功绗旇璇疯闂垜鐨勪釜浜哄崥瀹細 xxg1413.github.com
