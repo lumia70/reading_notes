@@ -1,5 +1,0 @@
-English name: Beginning Python From Novice to Professional Second Edition
-中文名： Python 基础教程(第2版)
-Author: Magnus Lie Hetland
-
-读书笔记请访问我的个人博客： xxg1413.github.com

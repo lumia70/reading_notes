@@ -1,6 +1,0 @@
-
-中文名： 实战Nginx 取代Apache的高性能Web服务器
-作者：    张宴
-
-
-读书笔记请访问我的个人博客： xxg1413.github.com

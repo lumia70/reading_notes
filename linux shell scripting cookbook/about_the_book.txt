@@ -1,4 +1,0 @@
-书名： Linux Shell Scripting Cookbook
-中文名： Linux Shell脚本攻略
-
-这本书是入门Shell的书籍。这里算是复习一遍。
