@@ -1,0 +1,4 @@
+英文书名： Puzzles for Programmers and Pros
+中文书名： 程序员面试逻辑题解析
+作者：     Dennis E. Shasha
+
